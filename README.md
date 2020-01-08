@@ -14,3 +14,10 @@
 ## 1. vào thư mục chứa code muốn kéo git về
 ## 2. Mở terminal
 ## 2. sử dụng lệnh `git clone tênusername@github.com:DuanPhan92/LastTest.git` để kéo code về
+
+cau hinh git
+$ git config --global user.name "John Doe"
+$ git config --global user.email "johndoe@example.com"
+
+file cau hinh tai:
+~/.gitconfig
